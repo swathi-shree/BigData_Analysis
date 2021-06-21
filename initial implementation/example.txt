@@ -1,0 +1,3 @@
+Example text file.
+This is an example text file used in SOFTENG751 to test out
+our code. We are Group 9. Cheers! 
